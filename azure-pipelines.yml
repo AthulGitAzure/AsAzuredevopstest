@@ -13,11 +13,11 @@ azureSubscription: 'b1a402f7-c0b7-4f70-993e-2a4a1b40d67a'
 
 
 #Function app name
-functionAppName: 'gs1testdevopsas'
+functionAppName: 'GS1-devopstestas0701'
 
 
 #Environment name
-environmentName: 'gs1testdevopsas'
+environmentName: 'GS1-devopstestas0701'
 
 pool:
   vmImage: ubuntu-latest
